@@ -66,23 +66,23 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "Français"
     [languages.fr.params]
-      introTitle = "Salut! Je suis Katheryn Fox"
-      introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
+      introTitle = "Bonjour! Et voici les courses e-list"
+      introSubtitle = "Découvrez les produits que vous selectionnez, triez, rachetez, dans les plus grands des magasins, ou les moins petits... La piste est longue pour un frigidaire bien rempli."
       introPhoto = "/picture.jpg"
       logo = "/blist-logo.png"
     [[languages.fr.menu.main]]
-        name = "Blog"
-        url = "blog"
+        name = "Revue"
+        url = "revue"
         weight = 1
 
     [[languages.fr.menu.main]]
-        name = "À propos"
-        url = "page/about/"
+        name = "Profil"
+        url = "page/profil/"
         weight = 2
 
     [[languages.fr.menu.main]]
-        name = "Tags"
-        url = "tags"
+        name = "Mots"
+        url = "mots"
         weight = 3
         
   [languages.dy]
